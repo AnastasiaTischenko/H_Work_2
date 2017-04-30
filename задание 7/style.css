@@ -1,0 +1,33 @@
+div{
+
+	border-style: dashed;
+	width: 320px;
+	padding: 5px;
+}
+
+p{
+	margin: 5px;
+	text-align: left;
+}
+
+span{
+	
+}
+.one{
+	font-size: 20px;
+line-height: 40px;
+	font-style: italic;
+}
+sup{
+	font-size: 10px;
+	color: red;
+	text-transform: lowercase;
+	font-style: normal
+}
+
+sub{
+	font-size: 10px;
+	color: blue;
+	text-decoration: none;
+	font-style: normal
+}

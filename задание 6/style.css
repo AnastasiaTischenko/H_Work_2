@@ -1,0 +1,22 @@
+div{
+
+	border-style: dashed;
+	width: 425px;
+	padding: 5px;
+}
+
+p{
+	margin: 5px;
+	text-align: left;
+}
+
+span{
+	line-height: 30px;
+}
+sup{
+	font-style: italic;
+}
+
+sub{
+	font-style: italic;
+}
